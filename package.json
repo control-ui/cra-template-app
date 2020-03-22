@@ -1,0 +1,24 @@
+{
+    "name": "cra-template-control-ui-app",
+    "version": "0.0.2",
+    "keywords": [
+        "react",
+        "create-react-app",
+        "template",
+        "control-ui",
+        "material-ui"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/control-ui/cra-template-app.git"
+    },
+    "license": "MIT",
+    "main": "template.json",
+    "files": [
+        "template",
+        "template.json"
+    ],
+    "scripts": {
+        "template": "npx create-react-app ../00-test-app --template file:../cra-template-control-ui-app"
+    }
+}

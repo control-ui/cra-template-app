@@ -1,0 +1,20 @@
+{
+    "package": {
+        "dependencies": {
+            "@material-ui/core": "^4.8",
+            "@material-ui/icons": "^4.8",
+            "@material-ui/styles": "^4.8",
+            "@control-ui/core": "0.0.5",
+            "@control-ui/layouts": "0.0.5",
+            "react-i18next": "^11.0",
+            "i18next": "^19.0",
+            "i18next-browser-languagedetector": "^4.0",
+            "i18next-chained-backend": "^2.0",
+            "i18next-localstorage-backend": "^3.0",
+            "i18next-xhr-backend": "^3.0",
+            "react-loadable": "^5.0",
+            "react-router": "^5.0",
+            "react-router-dom": "^5.0"
+        }
+    }
+}
