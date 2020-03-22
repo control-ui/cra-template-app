@@ -1,12 +1,14 @@
 {
     "name": "cra-template-control-ui-app",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "keywords": [
         "react",
         "create-react-app",
         "template",
         "control-ui",
-        "material-ui"
+        "boilerplate",
+        "material-ui",
+        "material"
     ],
     "repository": {
         "type": "git",

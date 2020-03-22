@@ -4,7 +4,11 @@
 npx create-react-app my-app --template control-ui-app
 ```
 
-Control-UI base template for [Create React App](https://github.com/facebook/create-react-app).
+**[Control-UI](https://control-ui.bemit.codes) template** for [Create React App](https://github.com/facebook/create-react-app).
+
+[![Run on CodeSandbox](https://img.shields.io/badge/run%20on%20CodeSandbox-blue?labelColor=fff&logoColor=505050&style=for-the-badge&logo=codesandbox)](https://codesandbox.io/s/github/control-ui/demo-app-cra/tree/master/?module=%2Fsrc%2Froutes.js)
+
+[![Clone on Repl.it](https://img.shields.io/badge/repl.it%20Clone-grey?labelColor=fff&style=for-the-badge&logo=repl.it)](https://repl.it/github/control-ui/demo-app-cra)
 
 For more information, please refer to:
 
