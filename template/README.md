@@ -6,6 +6,7 @@
 
 [![Clone on Repl.it](https://img.shields.io/badge/repl.it%20Clone-grey?labelColor=fff&style=for-the-badge&logo=repl.it)](https://repl.it/github/control-ui/demo-app-cra)
 
+
 Start developing your own React app:
 
 ```bash
@@ -19,6 +20,12 @@ This project is free software distributed under the **MIT License**.
 See: [LICENSE](LICENSE).
 
 © 2020 bemit UG (haftungsbeschränkt)
+
+### Contributors
+
+By committing your code/creating a pull request to this repository you agree to release the code under the MIT License attached to the repository.
+
+***
 
 Created by [Michael Becker](https://mlbr.xyz)
 

@@ -1,6 +1,6 @@
 {
     "name": "cra-template-control-ui-app",
-    "version": "0.0.3",
+    "version": "0.0.9",
     "keywords": [
         "react",
         "create-react-app",
@@ -17,6 +17,7 @@
     "license": "MIT",
     "main": "template.json",
     "files": [
+        "README.md",
         "template",
         "template.json"
     ],
